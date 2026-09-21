@@ -1,0 +1,15 @@
+# Large binary files & database files
+*.duckdb
+*.duckdb.wal
+archive/
+archive.zip
+amazon_brazil.duckdb
+
+# Python & Jupyter cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
