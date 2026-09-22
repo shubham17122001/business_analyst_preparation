@@ -5,6 +5,17 @@
 
 ---
 
+## ⭐ STAR Executive Summary (Amazon Evaluation Framework)
+
+| STAR Pillar | Project Context & Quantified Business Impact |
+| :--- | :--- |
+| **Situation** | Marketplace scaled top-line GMV from R$ 120k/mo to > R$ 1.0M/mo across 100k+ transactions, but top-line growth masked severe customer churn and payment settlement latency. |
+| **Task** | Audit the customer lifecycle funnel, diagnose one-time purchaser drop-off, evaluate payment friction, and design a high-ROI commercial retention strategy to lower blended CAC. |
+| **Action** | • Engineered automated DuckDB ETL pipelines and Star-Schema dimensional data models in Python.<br/>• Authored 19 production SQL queries leveraging window functions (`LAG`, `RANK`, `ROW_NUMBER`) to segment 96k+ unique customers.<br/>• Identified a **96.9% one-time buyer drop-off** (only 3.1% repeat rate) and **1–3 day settlement latency** on Boleto vouchers (19% of orders).<br/>• Designed automated 30-day post-delivery replenishment triggers for consumables (*Health & Beauty*) and instant payment rail routing (**Pix**). |
+| **Result** | • **Projected Repeat Rate Growth:** **3.1% ➔ 6.5%** (+R$ 450k in high-margin recurring annual GMV).<br/>• **Checkout Optimization:** **8–12% reduction in cart abandonment** by eliminating settlement latency.<br/>• **Architecture Delivery:** End-to-end multi-tool reporting suite with zero server overhead and millisecond query performance. |
+
+---
+
 ## 1. Executive Summary & Problem Statement
 A major Brazilian e-commerce marketplace integrator experienced rapid top-line growth (scaling from R$ 120k/month in early 2017 to over R$ 1.0M/month in 2018). However, leadership needed visibility into **underlying customer churn, payment friction, and product category concentration** to sustain profitability.
 
