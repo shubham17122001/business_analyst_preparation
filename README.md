@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Commercial Analytics & Retention Strategy
+#  E-Commerce Commercial Analytics & Retention Strategy
 > **End-to-End Multi-Tool Business Intelligence Case Study on 100,000+ Marketplace Transactions**
 
 [![SQL](https://img.shields.io/badge/SQL-PostgreSQL%20%7C%20DuckDB-blue.svg)](#)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🎯 Skills & Technology Toolkit Demonstrated
+##  Skills & Technology Toolkit Demonstrated
 
 This project demonstrates versatility across the **entire Business Analyst & Data Analyst toolkit**, from database engineering to visual storytelling:
 
@@ -44,7 +44,7 @@ flowchart TD
 
 ---
 
-## 📂 Project Structure & Folder Guide
+##  Project Structure & Folder Guide
 
 ```
 Business_Analyst_Preparation/
@@ -98,7 +98,7 @@ A concise, 1-page executive summary formatted using the STAR methodology for hir
 
 ---
 
-## 🔍 Key Business Insights
+##  Key Business Insights
 
 ```
 +------------------------------------------------------------------------------------+
@@ -113,7 +113,7 @@ A concise, 1-page executive summary formatted using the STAR methodology for hir
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ### 1. Re-Ingest Data (Optional)
 ```powershell
